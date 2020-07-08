@@ -1,4 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Nunito+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Roboto+Mono:wght@100&display=swap');
+
+
+
 /* General Styles */
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
@@ -24,6 +27,7 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+	font-family: 'Roboto Mono', monospace;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
@@ -48,4 +52,13 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
+h1 {
+	font-family: 'Chelsea Market', cursive;
+	display:inline-block;
+	font-size: 50px;
+}
+.toptitle {
+	text-align: center;
+	display: inline-block;
+	margin: 20%;
+}
