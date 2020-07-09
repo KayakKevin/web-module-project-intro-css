@@ -67,7 +67,9 @@ h1 {
 	background-color: burlywood;
 	color: white;
 	width: 80%;
-	margin: auto;
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-bottom: 5%;
 	padding: 2%;
 }
 .nav .plan {
@@ -75,6 +77,7 @@ h1 {
 	border-radius: 10px;
 	color:white;
 	padding: 1.5%;
+	margin: 3%;
 
 }
 .nav .learn {
@@ -82,12 +85,14 @@ h1 {
 	border-radius: 10px;
 	color:white;
 	padding: 1.5%;
+	margin: 3%
 }
 .nav .get {
 	background-color: #FFCD69;
 	border-radius: 10px;
 	color:white;
 	padding: 1.5%;
+	margin: 3%
 }
 .nav {
 	text-align: center;
@@ -96,15 +101,41 @@ h1 {
 
 
 }
-.middle {
+.middle1 {
 	text-align: center;
 	justify-content: center;
-
-
+	margin-left: 30%;
+	margin-right: 30%;
 }
-.middle img {
+
+.middle2 {
+	text-align: center;
+	justify-content: center;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+.logopic img {
+	border-radius: 50%;
+	display: inline-block;
+}
+.title {
+	display: inline-block;
+	width: 15%;
+	vertical-align: middle;
+	margin-left: 50%;
+	
 	
 }
-.toptitle img {
-	border-radius: 50%;
+.subtitle {
+	display: inline-block;
+;
+	
+}
+footer {
+ 	height:
+}
+
+.footerimg {
+	
 }
