@@ -60,24 +60,51 @@ h1 {
 .toptitle {
 	text-align: center;
 	display: inline-block;
-	margin: 20%;
+	margin: 10%;
+	
 }
 .midpara {
 	background-color: burlywood;
 	color: white;
 	width: 80%;
 	margin: auto;
+	padding: 2%;
 }
 .nav .plan {
-	background-color:orangered;
+	background-color:#FF764E;
 	border-radius: 10px;
-	
+	color:white;
+	padding: 1.5%;
+
 }
 .nav .learn {
-	background-color: skyblue;
-    border-radius: 10px;
+	background-color: #5ED3EB;
+	border-radius: 10px;
+	color:white;
+	padding: 1.5%;
 }
 .nav .get {
-	background-color: yellow;
+	background-color: #FFCD69;
 	border-radius: 10px;
+	color:white;
+	padding: 1.5%;
+}
+.nav {
+	text-align: center;
+	margin: 5%;
+	padding: 
+
+
+}
+.middle {
+	text-align: center;
+	justify-content: center;
+
+
+}
+.middle img {
+	
+}
+.toptitle img {
+	border-radius: 50%;
 }
