@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Roboto+Mono:wght@100&display=swap');
+
+
+
+/* General Styles */
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	font-family: 'Roboto Mono', monospace;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+h1 {
+	font-family: 'Chelsea Market', cursive;
+	display:inline-block;
+	font-size: 50px;
+}
+.toptitle {
+	text-align: center;
+	display: inline-block;
+	margin: 10%;
+	
+}
+.midpara {
+	background-color: burlywood;
+	color: white;
+	width: 80%;
+	margin: auto;
+	padding: 2%;
+}
+.nav .plan {
+	background-color:#FF764E;
+	border-radius: 10px;
+	color:white;
+	padding: 1.5%;
+
+}
+.nav .learn {
+	background-color: #5ED3EB;
+	border-radius: 10px;
+	color:white;
+	padding: 1.5%;
+}
+.nav .get {
+	background-color: #FFCD69;
+	border-radius: 10px;
+	color:white;
+	padding: 1.5%;
+}
+.nav {
+	text-align: center;
+	margin: 5%;
+	padding: 
+
+
+}
+.middle {
+	text-align: center;
+	justify-content: center;
+
+
+}
+.middle img {
+	
+}
+.toptitle img {
+	border-radius: 50%;
+}
