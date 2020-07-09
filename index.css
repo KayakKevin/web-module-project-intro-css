@@ -62,3 +62,22 @@ h1 {
 	display: inline-block;
 	margin: 20%;
 }
+.midpara {
+	background-color: burlywood;
+	color: white;
+	width: 80%;
+	margin: auto;
+}
+.nav .plan {
+	background-color:orangered;
+	border-radius: 10px;
+	
+}
+.nav .learn {
+	background-color: skyblue;
+    border-radius: 10px;
+}
+.nav .get {
+	background-color: yellow;
+	border-radius: 10px;
+}
